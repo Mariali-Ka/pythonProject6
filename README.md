@@ -1,1 +1,2 @@
-"# pythonProject6" 
+PythonProject6
+Модуль 12 "Типы данных"
